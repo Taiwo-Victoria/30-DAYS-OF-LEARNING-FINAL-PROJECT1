@@ -25,7 +25,9 @@ Now, we can see something interesting and insightful. While this report shows th
 
 DashBoard
 ---
-![dashboard](https://user-images.githubusercontent.com/101579219/178694874-02a06fe0-2c00-47f1-8d43-7f1627a493b2.jpg)
+![dashboard](https://user-images.githubusercontent.com/101579219/179123702-6e29e7a2-a435-4132-9634-2c4fe2415260.jpg)
+
+
 
 Finally, this Dash-Board is added to show relationships between each research question and the similiarities between their results.
 
